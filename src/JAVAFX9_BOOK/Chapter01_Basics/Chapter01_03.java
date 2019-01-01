@@ -1,4 +1,4 @@
-package JAVAFX9_BOOK;
+package JAVAFX9_BOOK.Chapter01_Basics;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
